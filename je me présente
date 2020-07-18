@@ -55,7 +55,7 @@ body{
 	font-family: var(--strFontFace);
 	background-color: var(--strPageBGColor);
 	color: var(--strTextColor);
-	background-image: url(56599701-arrière-plan-violet-.jpg); 
+	background-image: var(--strPageBGColor);
 	margin-right: 5%;
 	margin-left: 5%;
 	font-size: var(--strFontSize);
